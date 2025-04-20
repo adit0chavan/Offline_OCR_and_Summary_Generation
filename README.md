@@ -3,8 +3,8 @@
 ## Offline Text Summarization Tool for Handwritten and Digital Texts
 
 ### Team Sonic Coder
-- Bhavin Baldota - [LinkedIn - Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234)
 - Aditya Chavan - [LinkedIn - Aditya Chavan](https://www.linkedin.com/in/aditya-chavan-5117aa268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Bhavin Baldota - [LinkedIn - Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234)
 - Saumya Shah - [LinkedIn - Saumya Shah](https://www.linkedin.com/in/saumya-shah-9b2579273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Sharvari Korde - [LinkedIn - Sharvari Korde](https://www.linkedin.com/in/sharvari-korde-85b993268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
